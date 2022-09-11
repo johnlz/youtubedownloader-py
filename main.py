@@ -1,4 +1,4 @@
-#autoria 3
+#autoria a
 import tkinter as tk
 from tkinter import ttk
 from pytube import YouTube
